@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "name": "Felipe",
+    "age": 44,
+    "purchases": [
+      {
+        "id": 45,
+        "name": "Relógio Despertador Bakelike Rosa",
+        "category": "Eletrônicos",
+        "price": 3.75,
+        "color": "rosa"
+      },
+      {
+        "id": 46,
+        "name": "Relógio Despertador Bakelike Vermelho",
+        "category": "Eletrônicos",
+        "price": 3.75,
+        "color": "vermelho"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Luiza",
+    "age": 56,
+    "purchases": [
+      {
+        "id": 40,
+        "name": "Cabide Paris Fashion - Vermelho",
+        "category": "Decoração",
+        "price": 4.95,
+        "color": "vermelho"
+      },
+      {
+        "id": 41,
+        "name": "Cabide Paris Fashion - Amarelo",
+        "category": "Decoração",
+        "price": 4.95,
+        "color": "amarelo"
+      },
+      {
+        "id": 44,
+        "name": "Moldura Rústica de Madeira",
+        "category": "Decoração",
+        "price": 5.99,
+        "color": "natural"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Julia",
+    "age": 25,
+    "purchases": [
+      {
+        "id": 53,
+        "name": "Bolsa Charlotte Estampa Menina",
+        "category": "Acessórios",
+        "price": 0.85,
+        "color": "colorido"
+      },
+      {
+        "id": 56,
+        "name": "Guarda-chuva Floral Feminino",
+        "category": "Acessórios",
+        "price": 9.99,
+        "color": "rosa"
+      },
+      {
+        "id": 60,
+        "name": "Carteira Floral Bordada",
+        "category": "Acessórios",
+        "price": 8.75,
+        "color": "colorido"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Arnaldo",
+    "age": 20,
+    "purchases": [
+      {
+        "id": 1,
+        "name": "Globo Político Inflável",
+        "category": "Brinquedos",
+        "price": 0.85,
+        "color": "colorido"
+      },
+      {
+        "id": 2,
+        "name": "Jogo de Cartas Vintage Cara ou Coroa",
+        "category": "Brinquedos",
+        "price": 1.25,
+        "color": "colorido"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Isabella",
+    "age": 32,
+    "purchases": [
+      {
+        "id": 12,
+        "name": "Boneca Feltro Princesa Charlotte",
+        "category": "Brinquedos",
+        "price": 3.75,
+        "color": "rosa"
+      },
+      {
+        "id": 13,
+        "name": "Quarto da Casinha da Poppy",
+        "category": "Brinquedos",
+        "price": 2.10,
+        "color": "rosa"
+      },
+      {
+        "id": 14,
+        "name": "Cozinha da Casinha da Poppy",
+        "category": "Brinquedos",
+        "price": 2.10,
+        "color": "colorido"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Carlos",
+    "age": 38,
+    "purchases": [
+      {
+        "id": 19,
+        "name": "Panos de Prato Retrospot Vermelho - Set 2",
+        "category": "Utensílios Domésticos",
+        "price": 2.95,
+        "color": "vermelho"
+      },
+      {
+        "id": 21,
+        "name": "Kit para Fazer Geleia com Potes",
+        "category": "Utensílios Domésticos",
+        "price": 4.25,
+        "color": "transparente"
+      },
+      {
+        "id": 23,
+        "name": "Caixa de Receitas com Coração Metálico",
+        "category": "Utensílios Domésticos",
+        "price": 7.95,
+        "color": "vermelho"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mariana",
+    "age": 29,
+    "purchases": [
+      {
+        "id": 26,
+        "name": "Mini Kit de Pintura Vintage",
+        "category": "Papelaria",
+        "price": 0.65,
+        "color": "colorido"
+      },
+      {
+        "id": 31,
+        "name": "Agenda Floral Artesanal",
+        "category": "Papelaria",
+        "price": 4.99,
+        "color": "rosa"
+      },
+      {
+        "id": 33,
+        "name": "Envelope Decorado Floral - Pack 10",
+        "category": "Papelaria",
+        "price": 2.25,
+        "color": "branco"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Roberto",
+    "age": 51,
+    "purchases": [
+      {
+        "id": 48,
+        "name": "Relógio de Parede Retrô Amarelo",
+        "category": "Eletrônicos",
+        "price": 8.99,
+        "color": "amarelo"
+      },
+      {
+        "id": 50,
+        "name": "Rádio Portátil Retrô",
+        "category": "Eletrônicos",
+        "price": 15.99,
+        "color": "vermelho"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Fernanda",
+    "age": 41,
+    "purchases": [
+      {
+        "id": 34,
+        "name": "Porta Vela Coração Branco",
+        "category": "Decoração",
+        "price": 2.55,
+        "color": "branco"
+      },
+      {
+        "id": 36,
+        "name": "Porta Vela Estrela Fosca",
+        "category": "Decoração",
+        "price": 4.25,
+        "color": "branco"
+      },
+      {
+        "id": 43,
+        "name": "Vaso Cerâmica Floral Vintage",
+        "category": "Decoração",
+        "price": 6.50,
+        "color": "branco"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Thiago",
+    "age": 23,
+    "purchases": [
+      {
+        "id": 51,
+        "name": "Aquecedor de Mão Union Jack",
+        "category": "Acessórios",
+        "price": 1.85,
+        "color": "colorido"
+      },
+      {
+        "id": 54,
+        "name": "Garrafa Térmica Coração Lã",
+        "category": "Acessórios",
+        "price": 3.39,
+        "color": "vermelho"
+      },
+      {
+        "id": 57,
+        "name": "Chapéu de Palha Vintage",
+        "category": "Acessórios",
+        "price": 7.50,
+        "color": "natural"
+      }
+    ]
+  }
+]

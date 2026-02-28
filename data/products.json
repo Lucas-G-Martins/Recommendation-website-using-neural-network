@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "name": "Globo Político Inflável",
+    "category": "Brinquedos",
+    "price": 0.85,
+    "color": "colorido"
+  },
+  {
+    "id": 2,
+    "name": "Jogo de Cartas Vintage Cara ou Coroa",
+    "category": "Brinquedos",
+    "price": 1.25,
+    "color": "colorido"
+  },
+  {
+    "id": 3,
+    "name": "Quebra-cabeça Beira-Mar Vintage",
+    "category": "Brinquedos",
+    "price": 3.75,
+    "color": "colorido"
+  },
+  {
+    "id": 4,
+    "name": "Mini Quebra-cabeça Desfile de Circo",
+    "category": "Brinquedos",
+    "price": 0.42,
+    "color": "colorido"
+  },
+  {
+    "id": 5,
+    "name": "Mini Quebra-cabeça Menino do Espaço",
+    "category": "Brinquedos",
+    "price": 0.42,
+    "color": "azul"
+  },
+  {
+    "id": 6,
+    "name": "Blocos de Montar - Palavra HOME",
+    "category": "Brinquedos",
+    "price": 5.95,
+    "color": "natural"
+  },
+  {
+    "id": 7,
+    "name": "Blocos de Montar - Palavra LOVE",
+    "category": "Brinquedos",
+    "price": 5.95,
+    "color": "vermelho"
+  },
+  {
+    "id": 8,
+    "name": "Blocos de Montar - Palavra BATH",
+    "category": "Brinquedos",
+    "price": 5.95,
+    "color": "branco"
+  },
+  {
+    "id": 9,
+    "name": "Caixas Babushka de Encaixar - Set 7",
+    "category": "Brinquedos",
+    "price": 7.65,
+    "color": "colorido"
+  },
+  {
+    "id": 10,
+    "name": "Blocos de Alfabeto Vintage",
+    "category": "Brinquedos",
+    "price": 9.95,
+    "color": "natural"
+  },
+  {
+    "id": 11,
+    "name": "Caixas de Blocos Vintage",
+    "category": "Brinquedos",
+    "price": 4.95,
+    "color": "colorido"
+  },
+  {
+    "id": 12,
+    "name": "Boneca Feltro Princesa Charlotte",
+    "category": "Brinquedos",
+    "price": 3.75,
+    "color": "rosa"
+  },
+  {
+    "id": 13,
+    "name": "Quarto da Casinha da Poppy",
+    "category": "Brinquedos",
+    "price": 2.10,
+    "color": "rosa"
+  },
+  {
+    "id": 14,
+    "name": "Cozinha da Casinha da Poppy",
+    "category": "Brinquedos",
+    "price": 2.10,
+    "color": "colorido"
+  },
+  {
+    "id": 15,
+    "name": "Lancheira Menino do Espaço",
+    "category": "Utensílios Domésticos",
+    "price": 1.95,
+    "color": "azul"
+  },
+  {
+    "id": 16,
+    "name": "Lancheira I Love London",
+    "category": "Utensílios Domésticos",
+    "price": 1.95,
+    "color": "vermelho"
+  },
+  {
+    "id": 17,
+    "name": "Lancheira Desfile de Circo",
+    "category": "Utensílios Domésticos",
+    "price": 1.95,
+    "color": "colorido"
+  },
+  {
+    "id": 18,
+    "name": "Conjunto de Caixas Redondas Floresta - Set 4",
+    "category": "Utensílios Domésticos",
+    "price": 2.95,
+    "color": "verde"
+  },
+  {
+    "id": 19,
+    "name": "Panos de Prato Retrospot Vermelho - Set 2",
+    "category": "Utensílios Domésticos",
+    "price": 2.95,
+    "color": "vermelho"
+  },
+  {
+    "id": 20,
+    "name": "Panos de Prato I Love London - Set 2",
+    "category": "Utensílios Domésticos",
+    "price": 2.95,
+    "color": "vermelho"
+  },
+  {
+    "id": 21,
+    "name": "Kit para Fazer Geleia com Potes",
+    "category": "Utensílios Domésticos",
+    "price": 4.25,
+    "color": "transparente"
+  },
+  {
+    "id": 22,
+    "name": "Colheres de Chá Coloridas - Set 6",
+    "category": "Utensílios Domésticos",
+    "price": 4.25,
+    "color": "colorido"
+  },
+  {
+    "id": 23,
+    "name": "Caixa de Receitas com Coração Metálico",
+    "category": "Utensílios Domésticos",
+    "price": 7.95,
+    "color": "vermelho"
+  },
+  {
+    "id": 24,
+    "name": "Caneca com Capa Tricotada Marfim",
+    "category": "Utensílios Domésticos",
+    "price": 1.65,
+    "color": "bege"
+  },
+  {
+    "id": 25,
+    "name": "Tapete Porta Nova Inglaterra",
+    "category": "Utensílios Domésticos",
+    "price": 7.95,
+    "color": "azul"
+  },
+  {
+    "id": 26,
+    "name": "Mini Kit de Pintura Vintage",
+    "category": "Papelaria",
+    "price": 0.65,
+    "color": "colorido"
+  },
+  {
+    "id": 27,
+    "name": "Adesivo Panda e Coelhinhos",
+    "category": "Papelaria",
+    "price": 0.85,
+    "color": "colorido"
+  },
+  {
+    "id": 28,
+    "name": "Fita Presente Estrelas",
+    "category": "Papelaria",
+    "price": 0.65,
+    "color": "dourado"
+  },
+  {
+    "id": 29,
+    "name": "Kit Corrente de Papel Natal Anos 50",
+    "category": "Papelaria",
+    "price": 2.55,
+    "color": "colorido"
+  },
+  {
+    "id": 30,
+    "name": "Caderno Estampado Retrô",
+    "category": "Papelaria",
+    "price": 3.50,
+    "color": "colorido"
+  },
+  {
+    "id": 31,
+    "name": "Agenda Floral Artesanal",
+    "category": "Papelaria",
+    "price": 4.99,
+    "color": "rosa"
+  },
+  {
+    "id": 32,
+    "name": "Marcadores de Página Vintage - Set 6",
+    "category": "Papelaria",
+    "price": 1.50,
+    "color": "colorido"
+  },
+  {
+    "id": 33,
+    "name": "Envelope Decorado Floral - Pack 10",
+    "category": "Papelaria",
+    "price": 2.25,
+    "color": "branco"
+  },
+  {
+    "id": 34,
+    "name": "Porta Vela Coração Branco",
+    "category": "Decoração",
+    "price": 2.55,
+    "color": "branco"
+  },
+  {
+    "id": 35,
+    "name": "Lanterna Metal Branca",
+    "category": "Decoração",
+    "price": 3.39,
+    "color": "branco"
+  },
+  {
+    "id": 36,
+    "name": "Porta Vela Estrela Fosca",
+    "category": "Decoração",
+    "price": 4.25,
+    "color": "branco"
+  },
+  {
+    "id": 37,
+    "name": "Cabide Corações Cupido - Creme",
+    "category": "Decoração",
+    "price": 2.75,
+    "color": "bege"
+  },
+  {
+    "id": 38,
+    "name": "Enfeite de Pássaro Colorido - Set",
+    "category": "Decoração",
+    "price": 1.69,
+    "color": "colorido"
+  },
+  {
+    "id": 39,
+    "name": "Luminária LED Cogumelo Vermelho",
+    "category": "Decoração",
+    "price": 1.65,
+    "color": "vermelho"
+  },
+  {
+    "id": 40,
+    "name": "Cabide Paris Fashion - Vermelho",
+    "category": "Decoração",
+    "price": 4.95,
+    "color": "vermelho"
+  },
+  {
+    "id": 41,
+    "name": "Cabide Paris Fashion - Amarelo",
+    "category": "Decoração",
+    "price": 4.95,
+    "color": "amarelo"
+  },
+  {
+    "id": 42,
+    "name": "Cabide Paris Fashion - Azul",
+    "category": "Decoração",
+    "price": 4.95,
+    "color": "azul"
+  },
+  {
+    "id": 43,
+    "name": "Vaso Cerâmica Floral Vintage",
+    "category": "Decoração",
+    "price": 6.50,
+    "color": "branco"
+  },
+  {
+    "id": 44,
+    "name": "Moldura Rústica de Madeira",
+    "category": "Decoração",
+    "price": 5.99,
+    "color": "natural"
+  },
+  {
+    "id": 45,
+    "name": "Relógio Despertador Bakelike Rosa",
+    "category": "Eletrônicos",
+    "price": 3.75,
+    "color": "rosa"
+  },
+  {
+    "id": 46,
+    "name": "Relógio Despertador Bakelike Vermelho",
+    "category": "Eletrônicos",
+    "price": 3.75,
+    "color": "vermelho"
+  },
+  {
+    "id": 47,
+    "name": "Relógio Despertador Bakelike Verde",
+    "category": "Eletrônicos",
+    "price": 3.75,
+    "color": "verde"
+  },
+  {
+    "id": 48,
+    "name": "Relógio de Parede Retrô Amarelo",
+    "category": "Eletrônicos",
+    "price": 8.99,
+    "color": "amarelo"
+  },
+  {
+    "id": 49,
+    "name": "Luminária de Mesa Vintage",
+    "category": "Eletrônicos",
+    "price": 12.50,
+    "color": "dourado"
+  },
+  {
+    "id": 50,
+    "name": "Rádio Portátil Retrô",
+    "category": "Eletrônicos",
+    "price": 15.99,
+    "color": "vermelho"
+  },
+  {
+    "id": 51,
+    "name": "Aquecedor de Mão Union Jack",
+    "category": "Acessórios",
+    "price": 1.85,
+    "color": "colorido"
+  },
+  {
+    "id": 52,
+    "name": "Aquecedor de Mão Poá Vermelho",
+    "category": "Acessórios",
+    "price": 1.85,
+    "color": "vermelho"
+  },
+  {
+    "id": 53,
+    "name": "Bolsa Charlotte Estampa Menina",
+    "category": "Acessórios",
+    "price": 0.85,
+    "color": "colorido"
+  },
+  {
+    "id": 54,
+    "name": "Garrafa Térmica Coração Lã",
+    "category": "Acessórios",
+    "price": 3.39,
+    "color": "vermelho"
+  },
+  {
+    "id": 55,
+    "name": "Garrafa Térmica Bandeira Tricotada",
+    "category": "Acessórios",
+    "price": 3.39,
+    "color": "azul"
+  },
+  {
+    "id": 56,
+    "name": "Guarda-chuva Floral Feminino",
+    "category": "Acessórios",
+    "price": 9.99,
+    "color": "rosa"
+  },
+  {
+    "id": 57,
+    "name": "Chapéu de Palha Vintage",
+    "category": "Acessórios",
+    "price": 7.50,
+    "color": "natural"
+  },
+  {
+    "id": 58,
+    "name": "Lenço Estampado Retrô",
+    "category": "Acessórios",
+    "price": 4.50,
+    "color": "colorido"
+  },
+  {
+    "id": 59,
+    "name": "Cinto de Couro Artesanal",
+    "category": "Acessórios",
+    "price": 11.99,
+    "color": "marrom"
+  },
+  {
+    "id": 60,
+    "name": "Carteira Floral Bordada",
+    "category": "Acessórios",
+    "price": 8.75,
+    "color": "colorido"
+  }
+]

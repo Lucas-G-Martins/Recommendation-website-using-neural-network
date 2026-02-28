@@ -23,6 +23,10 @@ Entrada (Input): O sistema lê o histórico de compras (purchases) e o perfil (a
 Processamento: Um Worker isolado normaliza esses dados (One-Hot Encoding para cores e categorias).
 
 Saída (Output): O modelo sugere os produtos com maior probabilidade de conversão baseados nos pesos ajustados durante a sessão.
+
+## ⚖️ Licença
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Estrutura do Projeto
 index.html - Arquivo principal da aplicação.
